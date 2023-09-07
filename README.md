@@ -11,3 +11,7 @@
 # Principios de Composicion y diseño
 - Roberto Melo
 - Conocer los principios, técnicas y campos de aplicación del diseño gráfico y la composición, y ser capaz de aplicarlas mediante las herramientas adecuadas en soporte digital para resolver problemas visuales
+
+# Diseño de Videojuegos
+- Hector Guerrero
+- Conocer las técnicas, los elementos y los artefactos empleados en la concepción de un videojuego, y ser capaz de utilizarlos para concebir nuevos juegos
