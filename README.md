@@ -15,3 +15,7 @@
 # Diseño de Videojuegos
 - Hector Guerrero
 - Conocer las técnicas, los elementos y los artefactos empleados en la concepción de un videojuego, y ser capaz de utilizarlos para concebir nuevos juegos
+
+# Proyecto de App
+- Sebastian Mejia
+- Conocer los conceptos elementales de la programación por computadora en los lenguajes C y C++, tanto en el ámbito del diseño algorítmico como en el de estructuración y desarrollo de software
